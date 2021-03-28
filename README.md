@@ -1,5 +1,5 @@
 # Python for Data Analysis
-Python for Data Analysis 교재 공부 및 타이핑 연습
+Python for Data Analysis 교재 공부 및 코딩 연습
 - 교재: [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.yes24.com/Product/Goods/73268296)
 - 코드 출처: https://github.com/wesm/pydata-book
 
