@@ -8,7 +8,7 @@ Python for Data Analysis 교재 공부 및 코딩 연습
 - CHAPTER 2: 파이썬 언어의 기본, IPython, 주피터 노트북
 - CHAPTER 3: 내장 자료구조, 함수, 파일
 - [CHAPTER 4: NumPy 기본: 배열과 벡터 연산](https://github.com/kec0130/Python-for-Data-Analysis/blob/main/ch04.ipynb)
-- CHAPTER 5: pandas 시작하기
+- [CHAPTER 5: pandas 시작하기](https://github.com/kec0130/Python-for-Data-Analysis/blob/main/ch05.ipynb)
 - CHAPTER 6: 데이터 로딩과 저장, 파일 형식
 - CHAPTER 7: 데이터 정제 및 준비
 - CHAPTER 8: 데이터 준비하기: 조인, 병합, 변형
